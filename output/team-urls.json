@@ -1,1 +1,290 @@
-{"angels-of-death": {"name": "死亡天使", "box": {"url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/angels-of-death/tts_objects/Angels%20Of%20Death.json"}}}
+{
+  "angels-of-death": {
+    "name": "死亡天使",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/angels-of-death/tts_objects/Angels%20Of%20Death.json"
+    }
+  },
+  "battleclade": {
+    "name": "战斗支队",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/battleclade/tts_objects/Battleclade.json"
+    }
+  },
+  "blades-of-khaine": {
+    "name": "凯恩之刃",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/blades-of-khaine/tts_objects/Blades%20Of%20Khaine.json"
+    }
+  },
+  "blooded": {
+    "name": "浴血者",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/blooded/tts_objects/Blooded.json"
+    }
+  },
+  "brood-brothers": {
+    "name": "族群裔兵",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/brood-brothers/tts_objects/Brood%20Brothers.json"
+    }
+  },
+  "canoptek-circle": {
+    "name": "冥工之环",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/canoptek-circle/tts_objects/Canoptek%20Circle.json"
+    }
+  },
+  "celestian-insidiants": {
+    "name": "洁天使隐伏者",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/celestian-insidiants/tts_objects/Celestian%20Insidiants.json"
+    }
+  },
+  "chaos-cult": {
+    "name": "混沌教派",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/chaos-cult/tts_objects/Chaos%20Cult.json"
+    }
+  },
+  "corsair-voidscarred": {
+    "name": "虚空创痕海盗",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/corsair-voidscarred/tts_objects/Corsair%20Voidscarred.json"
+    }
+  },
+  "death-korps": {
+    "name": "死亡军团",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/death-korps/tts_objects/Death%20Korps.json"
+    }
+  },
+  "deathwatch": {
+    "name": "死亡守望",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/deathwatch/tts_objects/Deathwatch.json"
+    }
+  },
+  "elucidian-starstriders": {
+    "name": "艾露西亚星行者",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/elucidian-starstriders/tts_objects/Elucidian%20Starstriders.json"
+    }
+  },
+  "exaction-squad": {
+    "name": "强征小队",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/exaction-squad/tts_objects/Exaction%20Squad.json"
+    }
+  },
+  "exodite-dragon-masters": {
+    "name": "流亡驭龙师",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/exodite-dragon-masters/tts_objects/Exodite%20Dragon%20Masters.json"
+    }
+  },
+  "farstalker-kinband": {
+    "name": "远猎者族团",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/farstalker-kinband/tts_objects/Farstalker%20Kinband.json"
+    }
+  },
+  "fellgor-ravagers": {
+    "name": "恶角兽掠夺者",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/fellgor-ravagers/tts_objects/Fellgor%20Ravagers.json"
+    }
+  },
+  "gellerpox-infected": {
+    "name": "盖勒痘魔",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/gellerpox-infected/tts_objects/Gellerpox%20Infected.json"
+    }
+  },
+  "goremongers": {
+    "name": "洒血狂",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/goremongers/tts_objects/Goremongers.json"
+    }
+  },
+  "hand-of-the-archon": {
+    "name": "执政官之手",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/hand-of-the-archon/tts_objects/Hand%20Of%20The%20Archon.json"
+    }
+  },
+  "hearthkyn-salvagers": {
+    "name": "炉心打捞者",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/hearthkyn-salvagers/tts_objects/Hearthkyn%20Salvagers.json"
+    }
+  },
+  "hernkyn-yaegirs": {
+    "name": "远行者猎手",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/hernkyn-yaegirs/tts_objects/Hernkyn%20Yaegirs.json"
+    }
+  },
+  "hierotek-circle": {
+    "name": "神圣技师之环",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/hierotek-circle/tts_objects/Hierotek%20Circle.json"
+    }
+  },
+  "hunter-clade": {
+    "name": "猎手支队",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/hunter-clade/tts_objects/Hunter%20Clade.json"
+    }
+  },
+  "imperial-navy-breachers": {
+    "name": "帝国海军跳帮队",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/imperial-navy-breachers/tts_objects/Imperial%20Navy%20Breachers.json"
+    }
+  },
+  "inquisitorial-agents": {
+    "name": "审判庭特勤",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/inquisitorial-agents/tts_objects/Inquisitorial%20Agents.json"
+    }
+  },
+  "kasrkin": {
+    "name": "卡舍津",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/kasrkin/tts_objects/Kasrkin.json"
+    }
+  },
+  "kommandos": {
+    "name": "特种兵",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/kommandos/tts_objects/Kommandos.json"
+    }
+  },
+  "legionaries": {
+    "name": "军团",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/legionaries/tts_objects/Legionaries.json"
+    }
+  },
+  "mandrakes": {
+    "name": "曼德拉",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/mandrakes/tts_objects/Mandrakes.json"
+    }
+  },
+  "murderwings": {
+    "name": "屠戮之翼",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/murderwings/tts_objects/Murderwings.json"
+    }
+  },
+  "nemesis-claw": {
+    "name": "复仇之爪",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/nemesis-claw/tts_objects/Nemesis%20Claw.json"
+    }
+  },
+  "novitiates": {
+    "name": "见习修女",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/novitiates/tts_objects/Novitiates.json"
+    }
+  },
+  "pathfinders": {
+    "name": "探路者",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/pathfinders/tts_objects/Pathfinders.json"
+    }
+  },
+  "phobos-strike-team": {
+    "name": "恐惧突袭小队",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/phobos-strike-team/tts_objects/Phobos%20Strike%20Team.json"
+    }
+  },
+  "plague-marines": {
+    "name": "瘟疫战士",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/plague-marines/tts_objects/Plague%20Marines.json"
+    }
+  },
+  "ratlings": {
+    "name": "莱特林",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/ratlings/tts_objects/Ratlings.json"
+    }
+  },
+  "raveners": {
+    "name": "蛇虫",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/raveners/tts_objects/Raveners.json"
+    }
+  },
+  "sanctifiers": {
+    "name": "净化者",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/sanctifiers/tts_objects/Sanctifiers.json"
+    }
+  },
+  "scout-squad": {
+    "name": "侦查小队",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/scout-squad/tts_objects/Scout%20Squad.json"
+    }
+  },
+  "spectre-squad": {
+    "name": "魅影小队",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/spectre-squad/tts_objects/Spectre%20Squad.json"
+    }
+  },
+  "tempestus-aquilons": {
+    "name": "风暴飞鹰",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/tempestus-aquilons/tts_objects/Tempestus%20Aquilons.json"
+    }
+  },
+  "vespid-stingwings": {
+    "name": "胡蜂尖翼",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/vespid-stingwings/tts_objects/Vespid%20Stingwings.json"
+    }
+  },
+  "void-dancer-troupe": {
+    "name": "虚空舞者剧团",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/void-dancer-troupe/tts_objects/Void%20Dancer%20Troupe.json"
+    }
+  },
+  "warpcoven": {
+    "name": "次元密会",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/warpcoven/tts_objects/Warpcoven.json"
+    }
+  },
+  "wolf-scouts": {
+    "name": "狼侦察",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/wolf-scouts/tts_objects/Wolf%20Scouts.json"
+    }
+  },
+  "wrecka-krew": {
+    "name": "破坏专队",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/wrecka-krew/tts_objects/Wrecka%20Krew.json"
+    }
+  },
+  "wyrmblade": {
+    "name": "虫刃",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/wyrmblade/tts_objects/Wyrmblade.json"
+    }
+  },
+  "xv26-stealth-battlesuits": {
+    "name": "XV26 隐形战斗服",
+    "box": {
+      "url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main/output/xv26-stealth-battlesuits/tts_objects/Xv26%20Stealth%20Battlesuits.json"
+    }
+  }
+}

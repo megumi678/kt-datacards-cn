@@ -1,7 +1,449 @@
 {
-  "repository": "https://github.com/megumi678/kt-datacards-cn",
-  "branch": "main",
   "base_url": "https://raw.githubusercontent.com/megumi678/kt-datacards-cn/main",
-  "team": "angels-of-death",
-  "tts_client_verified": false
+  "teams": [
+    {
+      "team": "angels-of-death",
+      "name": "死亡天使",
+      "cards": 25,
+      "content_faces": 31,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": true
+    },
+    {
+      "team": "battleclade",
+      "name": "战斗支队",
+      "cards": 22,
+      "content_faces": 26,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "blades-of-khaine",
+      "name": "凯恩之刃",
+      "cards": 36,
+      "content_faces": 38,
+      "removed_duplicate_cards": 16,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "blooded",
+      "name": "浴血者",
+      "cards": 28,
+      "content_faces": 32,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "brood-brothers",
+      "name": "族群裔兵",
+      "cards": 30,
+      "content_faces": 37,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "canoptek-circle",
+      "name": "冥工之环",
+      "cards": 22,
+      "content_faces": 27,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "celestian-insidiants",
+      "name": "洁天使隐伏者",
+      "cards": 27,
+      "content_faces": 32,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "chaos-cult",
+      "name": "混沌教派",
+      "cards": 28,
+      "content_faces": 30,
+      "removed_duplicate_cards": 1,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "corsair-voidscarred",
+      "name": "虚空创痕海盗",
+      "cards": 27,
+      "content_faces": 30,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "death-korps",
+      "name": "死亡军团",
+      "cards": 29,
+      "content_faces": 33,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "deathwatch",
+      "name": "死亡守望",
+      "cards": 27,
+      "content_faces": 27,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "elucidian-starstriders",
+      "name": "艾露西亚星行者",
+      "cards": 23,
+      "content_faces": 29,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "exaction-squad",
+      "name": "强征小队",
+      "cards": 29,
+      "content_faces": 33,
+      "removed_duplicate_cards": 0,
+      "source_notes": [
+        {
+          "asset": "output/exaction-squad/cards/operatives_selection/exaction-squad-operative-selection-front.jpg",
+          "note": "中文选人卡取自官方中文 PDF 第 15 页附录，重新裁剪为两面。"
+        }
+      ],
+      "tts_client_verified": false
+    },
+    {
+      "team": "exodite-dragon-masters",
+      "name": "流亡驭龙师",
+      "cards": 38,
+      "content_faces": 42,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "farstalker-kinband",
+      "name": "远猎者族团",
+      "cards": 26,
+      "content_faces": 29,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "fellgor-ravagers",
+      "name": "恶角兽掠夺者",
+      "cards": 26,
+      "content_faces": 28,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "gellerpox-infected",
+      "name": "盖勒痘魔",
+      "cards": 27,
+      "content_faces": 32,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "goremongers",
+      "name": "洒血狂",
+      "cards": 30,
+      "content_faces": 33,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "hand-of-the-archon",
+      "name": "执政官之手",
+      "cards": 25,
+      "content_faces": 31,
+      "removed_duplicate_cards": 0,
+      "source_notes": [
+        {
+          "asset": "output/hand-of-the-archon/cards/datacards/kabalite-archsybarite-front.jpg",
+          "note": "中文补译（非官方）：当前官方中文 PDF 缺少大享乐者数据卡，本卡基于原模板英文卡补译，数值沿用原模板，请核对版本。"
+        }
+      ],
+      "tts_client_verified": false
+    },
+    {
+      "team": "hearthkyn-salvagers",
+      "name": "炉心打捞者",
+      "cards": 26,
+      "content_faces": 34,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "hernkyn-yaegirs",
+      "name": "远行者猎手",
+      "cards": 24,
+      "content_faces": 25,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "hierotek-circle",
+      "name": "神圣技师之环",
+      "cards": 32,
+      "content_faces": 36,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "hunter-clade",
+      "name": "猎手支队",
+      "cards": 30,
+      "content_faces": 36,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "imperial-navy-breachers",
+      "name": "帝国海军跳帮队",
+      "cards": 27,
+      "content_faces": 33,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "inquisitorial-agents",
+      "name": "审判庭特勤",
+      "cards": 39,
+      "content_faces": 47,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "kasrkin",
+      "name": "卡舍津",
+      "cards": 28,
+      "content_faces": 32,
+      "removed_duplicate_cards": 1,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "kommandos",
+      "name": "特种兵",
+      "cards": 26,
+      "content_faces": 27,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "legionaries",
+      "name": "军团",
+      "cards": 31,
+      "content_faces": 33,
+      "removed_duplicate_cards": 1,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "mandrakes",
+      "name": "曼德拉",
+      "cards": 24,
+      "content_faces": 27,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "murderwings",
+      "name": "屠戮之翼",
+      "cards": 28,
+      "content_faces": 35,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "nemesis-claw",
+      "name": "复仇之爪",
+      "cards": 24,
+      "content_faces": 27,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "novitiates",
+      "name": "见习修女",
+      "cards": 27,
+      "content_faces": 30,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "pathfinders",
+      "name": "探路者",
+      "cards": 32,
+      "content_faces": 37,
+      "removed_duplicate_cards": 1,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "phobos-strike-team",
+      "name": "恐惧突袭小队",
+      "cards": 31,
+      "content_faces": 33,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "plague-marines",
+      "name": "瘟疫战士",
+      "cards": 23,
+      "content_faces": 24,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "ratlings",
+      "name": "莱特林",
+      "cards": 28,
+      "content_faces": 31,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "raveners",
+      "name": "蛇虫",
+      "cards": 23,
+      "content_faces": 26,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "sanctifiers",
+      "name": "净化者",
+      "cards": 27,
+      "content_faces": 34,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "scout-squad",
+      "name": "侦查小队",
+      "cards": 24,
+      "content_faces": 25,
+      "removed_duplicate_cards": 4,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "spectre-squad",
+      "name": "魅影小队",
+      "cards": 30,
+      "content_faces": 35,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "tempestus-aquilons",
+      "name": "风暴飞鹰",
+      "cards": 24,
+      "content_faces": 27,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "vespid-stingwings",
+      "name": "胡蜂尖翼",
+      "cards": 24,
+      "content_faces": 27,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "void-dancer-troupe",
+      "name": "虚空舞者剧团",
+      "cards": 19,
+      "content_faces": 23,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "warpcoven",
+      "name": "次元密会",
+      "cards": 26,
+      "content_faces": 32,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "wolf-scouts",
+      "name": "狼侦察",
+      "cards": 24,
+      "content_faces": 27,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "wrecka-krew",
+      "name": "破坏专队",
+      "cards": 23,
+      "content_faces": 23,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "wyrmblade",
+      "name": "虫刃",
+      "cards": 25,
+      "content_faces": 32,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    },
+    {
+      "team": "xv26-stealth-battlesuits",
+      "name": "XV26 隐形战斗服",
+      "cards": 24,
+      "content_faces": 30,
+      "removed_duplicate_cards": 0,
+      "source_notes": [],
+      "tts_client_verified": false
+    }
+  ],
+  "validated_asset_references": 4478,
+  "validation": "Static assets and Lua checks; only Angels of Death has user-confirmed in-game validation."
 }
